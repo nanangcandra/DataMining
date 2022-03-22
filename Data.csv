@@ -1,0 +1,11 @@
+Town,Age,Salary,Purchased
+Rembang,40,65000,Yes
+Semarang,37,54000,Yes
+Kudus,35,43000,No
+Semarang,26,76000,Yes
+Kudus,31,,No
+Rembang,28,83000,No
+Semarang,,75000,Yes
+Rembang,34,49000,No
+Kudus,25,59000,Yes
+Rembang,41,67000,No
